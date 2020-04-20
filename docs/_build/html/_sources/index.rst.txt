@@ -1,0 +1,10 @@
+.. eai documentation master file, created by
+   sphinx-quickstart on Mon Apr 20 14:34:03 2020.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+Enable AI - Schulungen und Kurse in KI
+============================================
+`Kurse in Künstlicher Intelligenz <https://enable-ai.de>`_
+
+More content will follow soon.
